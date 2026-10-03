@@ -46,15 +46,15 @@ As três páginas conduzem a investigação:
 
 ### Visão Executiva
 
-![Visão Executiva](assets/visao-executiva.png)
+![Visão Executiva](assets/Dash_Executiva.png)
 
 ### Rentabilidade
 
-![Rentabilidade](assets/rentabilidade.png)
+![Rentabilidade](assets/Dash_Rentabilidade.png)
 
 ### Descontos
 
-![Descontos](assets/descontos.png)
+![Descontos](assets/Dash_Descontos.png)
 
 *Capturas registradas durante o desenvolvimento do relatório.*
 S
