@@ -1,0 +1,25 @@
+# Credenciais e configurações locais
+.env
+.env.*
+!.env.example
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Arquivos temporários de notebooks
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+Desktop.ini
